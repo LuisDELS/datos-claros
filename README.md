@@ -6,3 +6,4 @@ bajo el nombre **Datos Claros**.
 Servido con GitHub Pages: https://luisdels.github.io/datos-claros/
 
 - Bencinómetro — https://luisdels.github.io/datos-claros/bencinometro/privacidad.html
+- Regla, Nivel y Transportador — https://luisdels.github.io/datos-claros/regla-nivel/privacidad.html
